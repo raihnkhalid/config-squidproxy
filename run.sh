@@ -8,3 +8,4 @@ sudo wget -O config.zip https://github.com/raihnkhalid/config-squidproxy/raw/mai
 sudo unzip config.zip
 sudo systemctl restart squid
 sudo systemctl enable squid
+echo -e "Installing Squid Proxy Server \e[1;32mSuccess! \e[0m";
