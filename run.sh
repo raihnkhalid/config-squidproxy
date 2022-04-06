@@ -1,5 +1,5 @@
 #! /bin/bash
-sudo apt install update
+sudo apt update
 sudo apt install squid -y
 sudo apt install zip -y
 sudo apt install apache2 -y
